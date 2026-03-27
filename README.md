@@ -1,4 +1,3 @@
-# billiard-salon-warehouse
 # Billiard Salon Management System — SQL Server Data Warehouse
 
 A end-to-end database project built in SQL Server, covering normalized OLTP design, dimensional modeling, ETL pipeline, and automated change tracking via triggers.
